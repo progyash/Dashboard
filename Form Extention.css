@@ -1,0 +1,28 @@
+  body {
+    background-color: hsl(195, 53%, 79%);
+    
+  }
+
+  h2 {
+    color: hsl(106, 59%, 63%);
+    text-align: center;
+    background-color:red;
+    border: 8px solid rgb(58, 94, 6);
+    border-radius: 20px;
+    width: 25%;
+    margin: auto;
+    font-size: 50px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color:rgb(236, 17, 17);
+  }
+  form{
+    text-align: center;
+  }
+  label{
+    color: blue;
+    text-align: center;
+  }
